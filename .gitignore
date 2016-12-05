@@ -58,4 +58,7 @@ target/
 
 # IDE/Editor stuff
 .idea/*
-
+misc.xml
+modules.xml
+vcs.xml
+workspace.xml
